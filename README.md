@@ -1,3 +1,19 @@
-# Contemporary Issues In Data
+# Is sharing really caring?
+In this document I will be discussing two articles that shed some light on a contemporary issue relating to data, more specifically, data sharing. Consumer data and the privacy it entails is a highly controversial and discussed topic. I present two opposing views on this matter, how data sharing can be benefitial and how it can be harmful to consumers. 
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1
+The New York Times posted an article titled [Your App Knows You Got Your Period. Guess Who It Told?](https://www.nytimes.com/2021/01/28/us/period-apps-health-technology-women-privacy.html?searchResultPosition=4) that discusses the privacy concerns of health data that millions of women enter into their period tracking apps. The Federal Trade Commission filed a complaint against _Flo_, a women's health app, claiming that they have been sharing their user's personal data with other companies without their consent. However, consumer health apps like Flo do not have to comply with the Health Insurance Portability and Accountability Act, or better known as HIPAA, which protects patient data. Therefore, the personal health data we enter into apps are not protected for privacy concerns. 
+
+The idea that big companies are exploiting our personal data is scary and seems like a big violation. However, Carolyn Witte, chief executive and co-founder of _Tia_, a membership-based women’s health clinic says that the sharing of women's health data can be beneficial for research.
+
+> “With the data collected by these products, we have huge opportunities to improve our collective understanding of female health and well-being in really powerful ways.”
+
+Women are an underrepresented group in medical research. The access of real and authentic data from these apps can help push the research forward and lead to beneficial outcomes for all. When framed in the correct way and if the company is transparent with its users about how our data is being used, the idea of sharing data to push science forward seems attractive. 
+
+_Clue_, another period tracking app, clearly states within their privacy policy that they intend to share their user's data with scientific insitutions for research and noncommercial use. Users have an option to opt out of sharing their data or delete their data. Before sharing the data, Clue first strips it of any unique identifier that can be used to traced back to the user. It can sound very exciting and appealing when you put it this way, everytime we use the app and enter in a data point, its helping push research forward. 
+
+
+## Article 2
+Another article that discusses data sharing and privacy is also by the New York Times, [Grindr is fined $11.7 million under European privacy law.](https://www.nytimes.com/2021/01/25/business/grindr-gdpr-privacy-fine.html?searchResultPosition=9). Similarly, this article discusses a data privacy breach by an app company sharing its user data with advertising companies. The type of data that were being shared were the user's precise location, their sexual preferences, personal information. This shared data is able to tag an individual as LGBTQ+ along with transmitting their location. The implication of this data being shared is very dangerous and can even be life threatening to some who did not consent for their identity and information to be shared. 
+
+Grindr did not get consent from their users to share their data and the only reason this data was shared was to be used for commercial gain. This does not sit well with users, it creates a sense of distrust and negative perception. Contrary to how Clue handled sharing their user's data and gave their users an option to opt out of sharing, this creates a different perception to data sharing. On one hand, Clue is using the data for the good of public health and benefiting women everywhere, and on the other Grindr is simply sharing their user's data without consent to further their monetary gains. 
